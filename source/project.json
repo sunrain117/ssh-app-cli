@@ -1,8 +1,8 @@
 {
   "React":{
-    "git":"https://github.com/sunrain117/subdemo.git"
+    "git":"https://github.com/sunrain117/template-react-umi3.0.git"
   },
   "Vue":{
-    "git":"https://github.com/sunrain117/hello-word.git"
+    "git":"https://github.com/sunrain117/template-vue2.git"
   }
 }
